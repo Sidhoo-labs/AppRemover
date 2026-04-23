@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Your App Updates</title>
+
+    <item>
+      <title>Version 1.1</title>
+      <enclosure
+        url="https://yourwebsite.com/AppRemover.dmg"
+        sparkle:version="2"
+        sparkle:shortVersionString="1.1"
+        length="4108168"
+        type="application/x-apple-diskimage"/>
+    </item>
+
+  </channel>
+</rss>
