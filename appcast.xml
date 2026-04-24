@@ -1,14 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+<rss version="2.0"
+     xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
-    <title>Your App Updates</title>
+    <title>AppRemover Updates</title>
+    <link>https://github.com/Sidhoo-labs/AppRemover</link>
+    <description>Latest updates for AppRemover</description>
+    <language>en</language>
 
+    <!-- 🔥 Latest version (TOP) -->
     <item>
       <title>Version 1.1</title>
+      <sparkle:releaseNotesLink>
+        https://github.com/Sidhoo-labs/AppRemover/releases/tag/v1.1
+      </sparkle:releaseNotesLink>
+      <pubDate>Fri, 24 Apr 2026 10:00:00 +0000</pubDate>
       <enclosure
-        url="https://github.com/Sidhoo-labs/AppRemover/releases/download/v1.0/AppRemover.dmg"
+        url="https://github.com/Sidhoo-labs/AppRemover/releases/download/v1.1/AppRemover.dmg"
         sparkle:version="2"
         sparkle:shortVersionString="1.1"
+        length="4108168"
+        type="application/x-apple-diskimage"/>
+    </item>
+
+    <!-- Older version -->
+    <item>
+      <title>Version 1.0</title>
+      <sparkle:releaseNotesLink>
+        https://github.com/Sidhoo-labs/AppRemover/releases/tag/v1.0
+      </sparkle:releaseNotesLink>
+      <pubDate>Thu, 23 Apr 2026 10:00:00 +0000</pubDate>
+      <enclosure
+        url="https://github.com/Sidhoo-labs/AppRemover/releases/download/v1.0/AppRemover.dmg"
+        sparkle:version="1"
+        sparkle:shortVersionString="1.0"
         length="4108168"
         type="application/x-apple-diskimage"/>
     </item>
