@@ -7,22 +7,20 @@
     <description>Latest updates for AppRemover</description>
     <language>en</language>
 
-    <!-- 🔥 Latest version (TOP) -->
     <item>
       <title>Version 1.1</title>
       <sparkle:releaseNotesLink>
         https://github.com/Sidhoo-labs/AppRemover/releases/tag/v1.1
       </sparkle:releaseNotesLink>
-      <pubDate>Fri, 24 Apr 2026 10:00:00 +0000</pubDate>
+      <pubDate>Fri, 24 Apr 2026 12:00:00 +0000</pubDate>
       <enclosure
         url="https://github.com/Sidhoo-labs/AppRemover/releases/download/v1.1/AppRemover.dmg"
         sparkle:version="2"
         sparkle:shortVersionString="1.1"
-        length="4108168"
+        length="6655277"
         type="application/x-apple-diskimage"/>
     </item>
 
-    <!-- Older version -->
     <item>
       <title>Version 1.0</title>
       <sparkle:releaseNotesLink>
