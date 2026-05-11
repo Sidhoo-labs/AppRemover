@@ -6,12 +6,12 @@
     <description>Latest updates for AppRemover</description>
     <language>en</language>
     <item>
-      <title>Version 1.2</title>
-      <sparkle:version>3</sparkle:version>
-      <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
-      <sparkle:releaseNotesLink>https://github.com/Sidhoo-labs/AppRemover/releases/tag/v1.2</sparkle:releaseNotesLink>
-      <pubDate>Mon, 11 May 2026 03:41:26 +0000</pubDate>
-      <enclosure url="https://github.com/Sidhoo-labs/AppRemover/releases/download/v1.2/AppRemover%20v1.2.dmg" sparkle:edSignature="wXtwtxQWI/1ek6RigdIISHnnDHvn7+eL9MD9QQ0D0yllgi+mXmzlMxzlI4N686ypjHTFg7AwJhggJ8J++gXLDA==" length="6368367" type="application/x-apple-diskimage" />
+      <title>Version 1.3</title>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>1.3</sparkle:shortVersionString>
+      <sparkle:releaseNotesLink>https://github.com/Sidhoo-labs/AppRemover/releases/tag/v1.3</sparkle:releaseNotesLink>
+      <pubDate>Mon, 11 May 2026 04:04:58 +0000</pubDate>
+      <enclosure url="https://github.com/Sidhoo-labs/AppRemover/releases/download/v1.3/AppRemover%20v1.3.dmg" sparkle:edSignature="KbVnPL53HpeiASqdM7zqjztH1v156FViTHXjMkfnLalwpu6PIGHn1mDNwQz0h+GFNyBIPA11jnlJkaBstSDpDA==" length="6372873" type="application/x-apple-diskimage" />
     </item>
   </channel>
 </rss>
